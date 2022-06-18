@@ -23,6 +23,13 @@ body{
 	background-attachment: fixed;
 	
 }
+@keyframes un_efecto{
+       0%{ background-image: url(../img/header1.jpg) ; }
+      	25%{background-image: url(../img/header2.jpg);}
+       50%{ background-image: url(../img/header3.jpg);}
+       75%{background-image: url(../img/header4.jpg);}
+       100%{ background-image: url(../img/header5.jpg);}
+}
 
 .header{
  
